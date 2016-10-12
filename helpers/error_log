@@ -1,0 +1,37 @@
+series:1 XMLHttpRequest cannot load https://formspree.io/heartlandjazzartsgroup@gmail.com. Response to preflight request doesn't pass access control check: The 'Access-Control-Allow-Origin' header contains multiple values 'http://evil.com/, *', but only one is allowed. Origin 'http://heartlandbigband.online' is therefore not allowed access.
+
+Request URL:https://formspree.io/heartlandjazzartsgroup@gmail.com
+Request Method:OPTIONS
+Status Code:200
+Remote Address:104.25.163.36:443
+
+Response Headers
+access-control-allow-headers:content-type
+access-control-allow-methods:DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT
+access-control-allow-origin:http://evil.com/
+allow:OPTIONS, POST, GET, HEAD
+cf-ray:2e4b388accda51be-SJC
+content-encoding:gzip
+content-type:text/html; charset=utf-8
+date:Mon, 19 Sep 2016 07:10:58 GMT
+server:cloudflare-nginx
+set-cookie:__cfduid=daf1485b58d1ada1d8149ec1207f8757a1474269057; expires=Tue, 19-Sep-17 07:10:57 GMT; path=/; domain=.formspree.io; HttpOnly
+status:200
+strict-transport-security:max-age=31536000
+via:1.1 vegur
+
+Request Headers
+:authority:formspree.io
+:method:OPTIONS
+:path:/heartlandjazzartsgroup@gmail.com
+:scheme:https
+accept:*/*
+accept-encoding:gzip, deflate, sdch, br
+accept-language:en-US,en;q=0.8
+access-control-request-headers:content-type
+access-control-request-method:POST
+cache-control:no-cache
+origin:http://evil.com/
+pragma:no-cache
+referer:http://heartlandbigband.online/
+user-agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36

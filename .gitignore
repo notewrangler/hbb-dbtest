@@ -1,0 +1,7 @@
+node_modules
+bundle*
+dist
+config
+src/server/memberPortal/files
+src/img
+.DS_Store
